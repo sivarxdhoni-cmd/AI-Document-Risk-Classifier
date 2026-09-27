@@ -1,0 +1,19 @@
+document_id,text,label,policy_type
+DOC_014,Employees must notify Human Resources within five working days when their personal contact information changes.,medium,Employment/HR
+DOC_015,Vendor invoices should be reviewed against purchase orders before payment is released.,medium,Financial Compliance
+DOC_019,The agreement permits the company to process sensitive personal data for specified business purposes and requires appropriate security controls.,high,Data Privacy
+DOC_006,The company cafeteria will operate from 9 AM to 5 PM on working days.,low,General Business Policy
+DOC_012,All contractors must complete the company's required onboarding documentation before receiving system access.,medium,Employment/HR
+DOC_008,Employees should inform their manager when they need access to a shared project folder.,low,General Business Policy
+DOC_004,The weekly project status meeting will be held every Monday afternoon. Team members should submit their updates before the meeting.,low,General Business Policy
+DOC_024,"Unauthorized disclosure of trade secrets, proprietary source code, or confidential business information may result in contractual remedies.",high,Confidentiality
+DOC_017,Customer personal information including identity documents and financial details must be protected from unauthorized access and disclosure.,high,Data Privacy
+DOC_013,Purchase requests above the department approval limit require authorization from the finance manager.,medium,Financial Compliance
+DOC_001,The office will conduct a monthly team meeting on Friday at 10 AM. Employees should review the agenda before attending.,low,General Business Policy
+DOC_010,Business travel expenses must be supported by receipts and approved by the employee's department manager.,medium,Financial Compliance
+DOC_009,Employees must submit their monthly expense reports within ten business days. Missing the deadline may delay reimbursement.,medium,Financial Compliance
+DOC_021,The contract includes confidentiality obligations that continue after termination and restrict disclosure of proprietary business information.,high,Contractual Risk
+DOC_005,Employees can request standard office equipment through the internal administration portal.,low,General Business Policy
+DOC_003,"The company will provide basic office stationery including notebooks, pens, folders, and printing supplies.",low,General Business Policy
+DOC_018,Employees must not share confidential customer information with unauthorized third parties. Any suspected disclosure must be reported immediately.,high,Confidentiality
+DOC_022,A security incident involving customer personal data must be escalated to the designated compliance team for investigation.,high,Data Privacy

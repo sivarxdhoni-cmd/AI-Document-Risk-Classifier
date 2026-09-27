@@ -1,0 +1,7 @@
+document_id,text,label,policy_type
+DOC_016,Managers must document employee performance discussions and retain the records according to company policy.,medium,Employment/HR
+DOC_007,The project team will maintain a shared calendar containing important meetings and internal deadlines.,low,General Business Policy
+DOC_023,The supplier agreement requires compliance with applicable privacy and data protection obligations when processing customer information.,high,Regulatory
+DOC_002,Employees may use the company meeting room for internal discussions by booking the room through the office calendar.,low,General Business Policy
+DOC_020,Financial records containing confidential account information must only be accessed by authorized personnel.,high,Financial Compliance
+DOC_011,Employees must complete the annual workplace safety training before the end of the calendar year.,medium,Employment/HR
